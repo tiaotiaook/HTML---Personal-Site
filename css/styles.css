@@ -1,11 +1,11 @@
 body {
-  background-color:blue;
+  background-color :blue;
 }
 hr {
   border-style:none;
   border-top-style:dotted;
   width:30%;
-  color:grey;
+  color  :grey;
   border-width:5px;
 }
 
